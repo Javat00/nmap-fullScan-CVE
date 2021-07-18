@@ -9,7 +9,7 @@ Usage: No arguments required.
 
 # [Screenshots]
 
-![image](https://user-images.githubusercontent.com/16936151/125495043-a1c47bba-bb41-4df2-8c83-cbbd2739d37e.png)
+![image](https://user-images.githubusercontent.com/16936151/126074411-d534728a-b870-4da2-9b5e-d5e2abb07102.png)
 
 ![image](https://user-images.githubusercontent.com/16936151/125495210-d086bd84-1b1d-44da-9816-f45593c5bc1f.png)
 

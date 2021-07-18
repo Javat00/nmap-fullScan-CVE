@@ -10,9 +10,10 @@ def full_scan():
         exit()
 
     else:
+        print("\n ***Scanning open ports***")
         ports = []
         #default is set to scan all ports 1-65535, you can change it if you want
-        nm.scan(ip, '1-65535', arguments='--open -T5 -n') #the higher the -T argument, the noisier and the faster it will be (from 0 to 5)
+        nm.scan(ip, '1-65535', arguments='--open -T5 -n') #the higher the -T argument, the noisier and the faster it will be (from 0 to 5).
 
         for host in nm.all_hosts():            
             print('----------------------------------------------------')

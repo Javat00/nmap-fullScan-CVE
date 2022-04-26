@@ -3,7 +3,7 @@ It makes a full scan of a host and with the results of the open ports it uses th
 It also generates a log file with the info about the mentioned open ports.
 
 You need to have installed both nmap and vulnscan (https://github.com/scipag/vulscan) to be run.
-DB used to show CVE related from (https://cve.mitre.org) download latest from https://www.computec.ch/projekte/vulscan/download/cve.csv
+DB used to show CVE related from (https://cve.mitre.org) download latest from https://www.computec.ch/projekte/vulscan/download/cve.csv and paste it into the vulscan script folder.
 
 Usage: No arguments required.
 

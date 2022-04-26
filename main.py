@@ -1,7 +1,7 @@
 import nmap
 
 def full_scan():
-    ip = input("Host to scan: ")
+    ip = input("Host to scan: ") #ip
     nm = nmap.PortScanner()
     nm.scan(ip, '1', '-v') #first we'll check if the host is up or not
 
